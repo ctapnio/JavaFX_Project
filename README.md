@@ -1,4 +1,4 @@
-# JavaFX_Project
+# Shop_JavaFX_Project
 An order management system that allows users to edit, delete, and add products.<br>
 
 IDE: Netbeans 8.0.2<br>
